@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://appspa.github.io/blog</id>
-    <title>AppSpa Blog</title>
+    <title>AppSpace Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://appspa.github.io/blog"/>
-    <subtitle>AppSpa Blog</subtitle>
-    <icon>https://appspa.github.io/img/favicon.ico</icon>
+    <subtitle>AppSpace Blog</subtitle>
+    <icon>https://appspa.github.io/img/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
