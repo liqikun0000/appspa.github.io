@@ -65,7 +65,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             label: '更新日志',
           },
           {
-            href: 'https://github.com/appspa/appspa',
+            href: 'https://github.com/appspa/app-space',
             label: 'GitHub',
             position: 'right',
           },

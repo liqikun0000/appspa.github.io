@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-          AppSpace 专注移动端Bug管理功能，摇一摇直接截图提交
+          AppSpace 专注移动端App Bug管理功能，摇一摇直接截图提交
       </>
     ),
   },
