@@ -49,18 +49,18 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'user-guide/index',
             position: 'left',
-            label: '私有化部署',
+            label: '用户手册',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'developer-guide/index',
             position: 'left',
-            label: '快速接入',
+            label: '私有化部署',
           },{
             type: 'doc',
-            docId: 'intro',
+            docId: 'contributing-guide/index',
             position: 'left',
             label: '更新日志',
           },
