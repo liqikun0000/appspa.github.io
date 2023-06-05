@@ -14,6 +14,13 @@ module.exports = [
     ],
   }, {
     collapsible: false,
+    label: "云服务商",
+    type: "category",
+    items: [
+      "developer-guide/railway",
+    ],
+  }, {
+    collapsible: false,
     label: "自动化打包",
     type: "category",
     items: [
