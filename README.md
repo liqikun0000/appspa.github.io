@@ -27,7 +27,7 @@ This command generates static content into the `build` directory and can be serv
 ### Deployment
 
 ```
-$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
+$ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy 
 ```
 GIT_USER=appspa USE_SSH=true DEPLOYMENT_BRANCH=main yarn deploy
 
